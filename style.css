@@ -24,3 +24,15 @@ p {
 .skills h2 {
     color: #200e7a;
 }
+
+.about-me {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.about-me h2 {
+    color: #200e7a;
+}
