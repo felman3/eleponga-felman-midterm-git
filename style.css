@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 40px;
+}
+
+h1 {
+    color: #5808cf;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.skills {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.skills h2 {
+    color: #200e7a;
+}
